@@ -1,10 +1,15 @@
 {
- "work": "家持集",
+ "work": "家持集（群書類従本）",
  "work_id": "gunsho09-yakamochi",
  "repo": "kumoi-no-fumigura/yakamochi",
  "yomi": "やかもちしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "奈良時代（伝）",
+  "author": "大伴家持（伝）",
+  "desc": "大伴家持の作と伝える家集。四季・雑などに分け、『万葉集』の家持や他人の歌を平安時代の訓みで収める。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -3580,6 +3585,6 @@
   "poems": 317,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
